@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="junit5_app" />
+        <module name="junit5_app_clean" />
       </profile>
     </annotationProcessing>
   </component>
